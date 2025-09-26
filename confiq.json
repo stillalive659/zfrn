@@ -6,9 +6,12 @@
         "Batik Birru 12","Batik Birru 13","IPST","IPST (Final)","MAN 2 Kota Padang Panjang","MAN 2 Kota Padang Panjang (Final)","KOSSMI (Kota)","UIN Batusangkar","UIN Batusangkar","UIN Bukittinggi","UNP"
     ],
     "tahun" : [
-        2023,2024,2025,2025,2024,2024,2023,2023,2024,2025,2024,2024
+        2023,2024,2025,2025,2024,2024,2023,2024,2025,2024,2024
     ],
     "soal" : [
         40,40,25,10,40,10,30,25,25,40,50
+    ],
+    "link" : [
+        "https://drive.google.com/file/d/1aNSy3L_M-Yk_dx3fRUZwTXR_Ah0jMIMj/view?usp=drive_link","https://drive.google.com/file/d/1IffX_lGVcuRumskzcEJhVCYDtpGzS_fh/view?usp=drive_link","https://drive.google.com/file/d/1Jjma6nhFEfdsN88iv7MkPX459G8C9JRI/view?usp=drive_link","https://drive.google.com/file/d/1Mhz87zT1VUc0E2MaXOMcNPb_ysplIJJf/view?usp=drive_link","https://drive.google.com/file/d/1CO1Xcc4-zMKJJdLIQLgYMEh2_Mnhk1ne/view?usp=drive_link","https://drive.google.com/file/d/1fBrRd3T9kIem94ng1GAmvwJLEyERSHJ7/view?usp=drive_link","https://drive.google.com/file/d/1IRC6PqXLbKUyMw-_uA77QSIpc_H5zixY/view?usp=drive_link","https://drive.google.com/file/d/1kKRflb6-O1APZEvUITcAZTdaHmrJDf4d/view?usp=drive_link","https://drive.google.com/file/d/1dc5BtKrnBOOmjDD3uF4WOwKPCZ1b7An6/view?usp=drive_link","https://drive.google.com/file/d/147AqOClxonxJXCVKJAjKZGpvz7Y9SmJI/view?usp=drive_link","https://drive.google.com/file/d/1ULq-FlxL7Q3ISRMeUbFupOdhujPoPVPN/view?usp=drive_link"
     ]
 }

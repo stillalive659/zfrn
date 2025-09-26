@@ -60,7 +60,7 @@ span {
 
 .isi {
     width: 80%;
-    height: 50px;
+    height: 80px;
     border: 2px solid black;
     border-radius: 10px;
     padding: 10px;
@@ -73,5 +73,5 @@ span {
 .download {
     width: 30px;
     height: 30px;
-    
+
 }
