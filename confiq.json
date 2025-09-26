@@ -1,0 +1,14 @@
+{
+    "code" : [
+        "batik-birru-12","batik-birru-13","ipst-2025","final-ipst-2025","man-kobar-2024","final-man-kobar-2024","kossmi-kota-2023","uin-batusangkar-2024","uin-batusangkar-2025","uin-bukittinggi-2024","unp-2024"
+    ],
+    "name" : [
+        "Batik Birru 12","Batik Birru 13","IPST","IPST (Final)","MAN 2 Kota Padang Panjang","MAN 2 Kota Padang Panjang (Final)","KOSSMI (Kota)","UIN Batusangkar","UIN Batusangkar","UIN Bukittinggi","UNP"
+    ],
+    "tahun" : [
+        2023,2024,2025,2025,2024,2024,2023,2023,2024,2025,2024,2024
+    ],
+    "soal" : [
+        40,40,25,10,40,10,30,25,25,40,50
+    ]
+}
